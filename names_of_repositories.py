@@ -1,6 +1,6 @@
 from github import Github
 # Replace with your GitHub App private key path
-PRIVATE_KEY_PATH = 'x48vxihNr4IJQDYKpCCFnLTIMUQwj8Vab9gkl1cOPmk='
+PRIVATE_KEY_PATH = '"C:\\Users\\admin\\Downloads\\rohit223test.2023-06-12.private-key.pem"'
 # Replace with your GitHub App ID
 APP_ID = '346211'
 
